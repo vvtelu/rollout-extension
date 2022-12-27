@@ -7,4 +7,4 @@ metadata:
 spec:
   sources:
   - web:
-      url: https://github.com/vvtelu/rollout-extension/releases/download/v1.28/extension.tar
+      url: https://github.com/vvtelu/rollout-extension/releases/download/v1.29/extension.tar
